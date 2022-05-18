@@ -54,7 +54,18 @@ def logo():
 
 def main():
 	os.system("clear")
-	logo()
+	logo()    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	print("\t\033[93;1m      MAIN MENU\x1b[0m")
 	print("")
 	print("\033[92;1m  [1] START CRACK")
